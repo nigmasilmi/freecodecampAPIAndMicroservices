@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Nigma Silmi",
+  "description": "A starter project to re-learn APIs and learn microservices",
   "dependencies": {
     "express": "^4.14.0"
   },
